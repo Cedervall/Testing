@@ -1,4 +1,6 @@
-﻿namespace Code.Services;
+﻿using System;
+
+namespace Code.Services;
 
 public interface ILayerOne
 {

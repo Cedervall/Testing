@@ -1,3 +1,6 @@
+using System;
+using System.Linq;
+
 namespace CodeTests;
 
 public class CodeTest : IClassFixture<WebApplicationFactory<Program>>
